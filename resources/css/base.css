@@ -322,8 +322,7 @@ div.sf-toolbar .sf-toolbar-block a:hover {
     max-width: 480px;
     max-height: 480px;
     word-wrap: break-word;
-    overflow: hidden;
-    overflow-y: auto;
+    overflow: auto;
 }
 .sf-toolbar-info-piece b.sf-toolbar-ajax-info {
     color: #F5F5F5;
